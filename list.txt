@@ -1,0 +1,5 @@
+Requirements
+
+1 DB Admin
+2 front-end Developers
+1 back end dev
